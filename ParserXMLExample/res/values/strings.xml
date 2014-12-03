@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">ParserXMLExample</string>
+<string name="XML_Data">
+    &lt;?xml version="1.0"?>
+                        &lt;login>
+                           &lt;status>OK&lt;/status>
+                           &lt;jobs>
+                             &lt;job>
+                                 &lt;id>4&lt;/id>
+                                 &lt;companyid>4&lt;/companyid>
+                                 &lt;company>Android Example&lt;/company>
+                                 &lt;address>Parse XML Android&lt;/address>
+                                 &lt;city>Tokio&lt;/city>
+                                 &lt;state>Xml Parsing Tutorial&lt;/state>
+                                 &lt;zipcode>601301&lt;/zipcode>
+                                 &lt;country>Japan&lt;/country>
+                                 &lt;telephone>9287893558&lt;/telephone>
+                                 &lt;fax>1234567890&lt;/fax>
+                                 &lt;date>2012-03-15 12:00:00&lt;/date>
+                              &lt;/job>
+                              &lt;job>
+                                 &lt;id>5&lt;/id>
+                                 &lt;companyid>6&lt;/companyid>
+                                 &lt;company>Xml Parsing In Java&lt;/company>
+                                 &lt;address>B-22&lt;/address>
+                                 &lt;city>Cantabill&lt;/city>
+                                 &lt;state>XML Parsing Basics&lt;/state>
+                                 &lt;zipcode>201301&lt;/zipcode>
+                                 &lt;country>America&lt;/country>
+                                 &lt;telephone>9287893558&lt;/telephone>
+                                 &lt;fax>1234567890&lt;/fax>
+                                 &lt;date>2012-05-18 13:00:00&lt;/date>
+                               &lt;/job>
+                            &lt;/jobs>
+                         &lt;/login></string>
+                         
+
+
+</resources>
